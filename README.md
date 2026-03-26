@@ -1,6 +1,6 @@
 Glain
 =====
-ImGicc Global Language Index, common data for multiple languages.
+ImGicc Global Language Data, common data of multiple languages for AI/ML.
 
 Files
 =====
@@ -14,7 +14,7 @@ are: English Dictionary, Italian Dictionary, Vietnamese Dictionary.
 
 More Tokens
 ===========
-Please go [Issues](https://github.com/imgicc/glain/issues) tab to submit text files 
+Please go [Issues](https://github.com/imgicc/glad/issues) tab to submit text files 
 to have the tokens added.
 
 Notes
